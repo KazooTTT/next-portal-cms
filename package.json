@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-portal-cms",
+  "name": "nextjs-cms",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -20,7 +20,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "3293763d-09be-4771-9f2d-1f358f517b1b"
+    "uuid": "5582c4fd-0d96-485d-8045-311fb37d8e97"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
